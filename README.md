@@ -14,3 +14,5 @@
 * DATE : the date when the comment have been made ;
 * CONTENT : the content of the comment ;
 * CLASS : the class of the comment (wether it's a spam comment or not).
+
+### [Find the dataset here](https://www.notion.so/Spam-Comments-Detection-With-ML-4f7e83f847ed4edab59612747eef3310?pvs=4)
