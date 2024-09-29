@@ -9,7 +9,8 @@
 
 #### The dataset comes from Kaggle and is about YouTube videos comments. It's contains labelled data of spam comments.
 #### The dataset columns are :
-* YouTube ID : the YouTube video ID ;
-* Spam : the number of samples in the spam class ;
-* Ham : the number of samples in the not spam class ;
-* Total : the total number of samples for the  dataset
+* COMMENT_ID : the ID of the comment ;
+* AUTHOR : the author of the comment ;
+* DATE : the date when the comment have been made ;
+* CONTENT : the content of the comment ;
+* CLASS : the class of the comment (wether it's a spam comment or not).
